@@ -1,6 +1,6 @@
 # EduNexus
 
-**Ekosistem Kolaborasi & Gamifikasi Pendidikan** — belajar jadi petualangan, mengajar jadi lebih bermakna.
+**Ekosistem Kolaborasi & Gamifikasi Pendidikan** — belajar jadi etualangan, mengajar jadi lebih bermakna.
 
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-axum-000000?logo=rust&logoColor=white)
